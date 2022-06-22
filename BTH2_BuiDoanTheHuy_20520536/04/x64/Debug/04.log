@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\code\BTH2_BuiDoanTheHuy_20520536\04\main.cpp(9,10): warning C4129: 'N': unrecognized character escape sequence
+D:\code\BTH2_BuiDoanTheHuy_20520536\04\main.cpp(16,11): warning C4129: 'M': unrecognized character escape sequence
+D:\code\BTH2_BuiDoanTheHuy_20520536\04\main.cpp(18,15): warning C4129: 'M': unrecognized character escape sequence
+  04.vcxproj -> D:\code\BTH2_BuiDoanTheHuy_20520536\x64\Debug\04.exe

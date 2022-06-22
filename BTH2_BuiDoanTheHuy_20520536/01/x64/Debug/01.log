@@ -1,0 +1,5 @@
+﻿  NhanVien.cpp
+D:\code\BTH2_BuiDoanTheHuy_20520536\01\NhanVien.cpp(20,8): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\code\BTH2_BuiDoanTheHuy_20520536\01\NhanVien.cpp(25,15): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\code\BTH2_BuiDoanTheHuy_20520536\01\NhanVien.cpp(30,15): warning C4804: '<': unsafe use of type 'bool' in operation
+  01.vcxproj -> D:\code\BTH2_BuiDoanTheHuy_20520536\x64\Debug\01.exe

@@ -1,0 +1,5 @@
+﻿  SoPhuc.cpp
+D:\code\Vietcomehuyhouse\02\SoPhuc.cpp(8,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  02.vcxproj -> D:\code\Vietcomehuyhouse\x64\Debug\02.exe

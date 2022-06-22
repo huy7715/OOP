@@ -1,0 +1,11 @@
+﻿  CV.cpp
+  DaiHoc.cpp
+D:\code\BTH5_Bui Doan The Huy_20520536\01\DaiHoc.cpp(9,11): warning C4129: 'N': unrecognized character escape sequence
+D:\code\BTH5_Bui Doan The Huy_20520536\01\DaiHoc.cpp(44,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GiangVien.cpp
+  main.cpp
+  NCV.cpp
+  NhanSu.cpp
+  TroGiang.cpp
+  Generating Code...
+  01.vcxproj -> D:\code\BTH5_Bui Doan The Huy_20520536\x64\Debug\01.exe

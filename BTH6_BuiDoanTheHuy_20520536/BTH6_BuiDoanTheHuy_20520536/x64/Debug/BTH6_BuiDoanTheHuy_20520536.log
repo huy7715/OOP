@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BTH6_BuiDoanTheHuy_20520536.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CanBo.cpp
+  CBHD.cpp
+  CBNN.cpp
+  CongTy.cpp
+D:\code\BTH6_BuiDoanTheHuy_20520536\BTH6_BuiDoanTheHuy_20520536\CongTy.cpp(9,11): warning C4129: 'N': unrecognized character escape sequence
+  main.cpp
+  Generating Code...
+  BTH6_BuiDoanTheHuy_20520536.vcxproj -> D:\code\BTH6_BuiDoanTheHuy_20520536\x64\Debug\01.exe

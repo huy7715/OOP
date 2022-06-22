@@ -1,0 +1,5 @@
+﻿  HocSinh.cpp
+D:\code\BTH3_Bui Doan The Huy_20520536\BTH3_Bui Doan The Huy_20520536\HocSinh.cpp(31,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\code\BTH3_Bui Doan The Huy_20520536\BTH3_Bui Doan The Huy_20520536\HocSinh.cpp(35,7): error C2374: 'check': redefinition; multiple initialization
+D:\code\BTH3_Bui Doan The Huy_20520536\BTH3_Bui Doan The Huy_20520536\HocSinh.cpp(11): message : see declaration of 'check'
+D:\code\BTH3_Bui Doan The Huy_20520536\BTH3_Bui Doan The Huy_20520536\HocSinh.cpp(39,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
